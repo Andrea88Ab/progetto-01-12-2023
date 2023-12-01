@@ -1,0 +1,26 @@
+body {
+  background-color: var(--bs-black);
+}
+
+.btn-floating {
+}
+
+.list-footer {
+  font-size: 10px;
+}
+
+.modal-header {
+  background-color: #000000;
+}
+
+.modal-body {
+  background-color: #000000;
+}
+
+.modal-footer {
+  background-color: #000000;
+}
+
+mar {
+}
+
